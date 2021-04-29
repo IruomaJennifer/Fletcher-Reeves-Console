@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fletcher_ReevesConsole_12012021", "Fletcher_ReevesConsole_12012021\Fletcher_ReevesConsole_12012021.csproj", "{71517DF7-7B62-4C65-91F1-7A683D9DCFD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B1AC39F5-4E9A-41C5-B499-807FE6C1AFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fletcher_ReevesConsoleTests", "Fletcher_ReevesConsoleTests\Fletcher_ReevesConsoleTests.csproj", "{D6B313EA-0947-4BB2-A560-73A8AC0CE0FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71517DF7-7B62-4C65-91F1-7A683D9DCFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71517DF7-7B62-4C65-91F1-7A683D9DCFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71517DF7-7B62-4C65-91F1-7A683D9DCFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71517DF7-7B62-4C65-91F1-7A683D9DCFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B313EA-0947-4BB2-A560-73A8AC0CE0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B313EA-0947-4BB2-A560-73A8AC0CE0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B313EA-0947-4BB2-A560-73A8AC0CE0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B313EA-0947-4BB2-A560-73A8AC0CE0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6B313EA-0947-4BB2-A560-73A8AC0CE0FC} = {B1AC39F5-4E9A-41C5-B499-807FE6C1AFD2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB743BD6-A9FA-43E0-B039-4B60DC432E4E}
+	EndGlobalSection
+EndGlobal
